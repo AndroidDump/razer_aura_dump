@@ -1,0 +1,17 @@
+## aura-user 9 P-SMR6-RC001-RZR-201022 3201 release-keys
+- Manufacturer: razer
+- Platform: sdm845
+- Codename: aura
+- Brand: razer
+- Flavor: aura-user
+- Release Version: 9
+- Id: P-SMR6-RC001-RZR-201022
+- Incremental: 3201
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: razer/cheryl2/aura:9/P-SMR6-RC001-RZR-201022/3201:user/release-keys
+- Branch: aura-user-9-P-SMR6-RC001-RZR-201022-3201-release-keys
+- Repo: razer_aura_dump
